@@ -1,7 +1,0 @@
-[OK] users.txt — read 3 lines
-[ERROR] vault\empty.txt — EMPTY
-[ERROR] ../etc/passwd — ACCESS_DENIED
-[OK] users.txt -read 3 lines | SHA256: f9103f5f39bb...
-[OK] notes.txt -read 2 lines | SHA256: 953df447e4bd...
-[FAIL] empty.txt -EMPTY
-[FAIL] passwd -ACESS_DENIED
